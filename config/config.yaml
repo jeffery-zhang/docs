@@ -1,0 +1,15 @@
+contentDir: "content"
+publicDir: "public"
+templateDir: "template"
+templateName: "default"
+partialsDir: "partials"
+outputDir: "dist"
+port: 8080
+previewPort: 9000
+contentMap: false
+
+baseVariables:
+  baseUrl: "/"
+  title: "Jingo"
+  description: "Welcome to Jingo Blog"
+  author: "Jingo"
